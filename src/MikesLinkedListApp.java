@@ -12,6 +12,8 @@ public class MikesLinkedListApp {
         LinkedListNode node3 = new LinkedListNode(9);
         ll.add(node3);
 
-
+        System.out.println("The value of node 1 is " + node.value);
+        System.out.println("The value of node 2 is " + node2.value);
+        System.out.println("The value of node 3 is " + node3.value);
     }
 }
