@@ -1,9 +1,15 @@
+import static java.lang.System.*;
+
 public class LinkedListNode {
     public int value;
     public LinkedListNode next = null;
 
-    public LinkedListNode (int inputValue) {
+    LinkedListNode(int inputValue) {
         value = inputValue;
+
+//        out.println("value is: " + value);
+//        out.println("next is: " + next);
+//        out.println();
     }
 }
 
