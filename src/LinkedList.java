@@ -30,8 +30,8 @@ public class LinkedList {
 
     public void printListValues () {
         out.println("Printing List:");
-        if (this.head != null) {
-            LinkedListNode iterator = this.head;
+        if (head != null) {
+            LinkedListNode iterator = head;
             out.print("The list values are {");
             while (iterator.next != null) {
                 out.print(iterator.value + ", ");
