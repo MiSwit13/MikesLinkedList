@@ -1,0 +1,1115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cbeabb5f-e635-49fc-b1bd-3d29e42268cd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../com.solitarymonk/.idea/dictionaries/mswitzer.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.solitarymonk/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.solitarymonk/data/giflib.mv.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.solitarymonk/src/main/java/com/solitarymonk/giflib/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.solitarymonk/src/main/java/com/solitarymonk/giflib/config/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.solitarymonk/src/main/java/com/solitarymonk/giflib/config/DataConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.solitarymonk/src/main/java/com/solitarymonk/giflib/config/TemplateConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.solitarymonk/src/main/java/com/solitarymonk/giflib/model/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.solitarymonk/src/main/java/com/solitarymonk/giflib/model/Gif.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.solitarymonk/src/main/java/com/solitarymonk/giflib/web/Color.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.solitarymonk/src/main/java/com/solitarymonk/giflib/web/controller/CategoryController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.solitarymonk/src/main/java/com/solitarymonk/giflib/web/controller/GifController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.solitarymonk/src/main/resources/app.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.solitarymonk/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.solitarymonk/src/main/resources/static/app.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.solitarymonk/src/main/resources/static/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.solitarymonk/src/main/resources/static/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.solitarymonk/src/main/resources/static/icons/favorite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.solitarymonk/src/main/resources/static/icons/unfavorite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.solitarymonk/src/main/resources/static/images/me.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.solitarymonk/src/main/resources/static/vendor/codrops/css/cs-select.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.solitarymonk/src/main/resources/static/vendor/codrops/css/cs-skin-border.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.solitarymonk/src/main/resources/static/vendor/codrops/fonts/codropsicons/codropsicons.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.solitarymonk/src/main/resources/static/vendor/codrops/fonts/codropsicons/codropsicons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.solitarymonk/src/main/resources/static/vendor/codrops/fonts/codropsicons/codropsicons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.solitarymonk/src/main/resources/static/vendor/codrops/fonts/codropsicons/codropsicons.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.solitarymonk/src/main/resources/static/vendor/codrops/fonts/codropsicons/license.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.solitarymonk/src/main/resources/static/vendor/codrops/fonts/icomoon/icomoon.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.solitarymonk/src/main/resources/static/vendor/codrops/fonts/icomoon/icomoon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.solitarymonk/src/main/resources/static/vendor/codrops/fonts/icomoon/icomoon.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.solitarymonk/src/main/resources/static/vendor/codrops/fonts/icomoon/icomoon.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.solitarymonk/src/main/resources/static/vendor/codrops/js/classie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.solitarymonk/src/main/resources/static/vendor/codrops/js/selectFx.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.solitarymonk/src/main/resources/static/vendor/jquery/jquery-1.11.3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.solitarymonk/src/main/resources/static/vendor/materialize/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.solitarymonk/src/main/resources/static/vendor/materialize/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.solitarymonk/src/main/resources/static/vendor/materialize/css/materialize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.solitarymonk/src/main/resources/static/vendor/materialize/css/materialize.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.solitarymonk/src/main/resources/static/vendor/materialize/font/material-design-icons/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.solitarymonk/src/main/resources/static/vendor/materialize/font/material-design-icons/Material-Design-Icons.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.solitarymonk/src/main/resources/static/vendor/materialize/font/material-design-icons/Material-Design-Icons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.solitarymonk/src/main/resources/static/vendor/materialize/font/material-design-icons/Material-Design-Icons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.solitarymonk/src/main/resources/static/vendor/materialize/font/material-design-icons/Material-Design-Icons.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.solitarymonk/src/main/resources/static/vendor/materialize/font/material-design-icons/Material-Design-Icons.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.solitarymonk/src/main/resources/static/vendor/materialize/font/roboto/Roboto-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.solitarymonk/src/main/resources/static/vendor/materialize/font/roboto/Roboto-Bold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.solitarymonk/src/main/resources/static/vendor/materialize/font/roboto/Roboto-Bold.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.solitarymonk/src/main/resources/static/vendor/materialize/font/roboto/Roboto-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.solitarymonk/src/main/resources/static/vendor/materialize/font/roboto/Roboto-Light.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.solitarymonk/src/main/resources/static/vendor/materialize/font/roboto/Roboto-Light.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.solitarymonk/src/main/resources/static/vendor/materialize/font/roboto/Roboto-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.solitarymonk/src/main/resources/static/vendor/materialize/font/roboto/Roboto-Medium.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.solitarymonk/src/main/resources/static/vendor/materialize/font/roboto/Roboto-Medium.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.solitarymonk/src/main/resources/static/vendor/materialize/font/roboto/Roboto-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.solitarymonk/src/main/resources/static/vendor/materialize/font/roboto/Roboto-Regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.solitarymonk/src/main/resources/static/vendor/materialize/font/roboto/Roboto-Regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.solitarymonk/src/main/resources/static/vendor/materialize/font/roboto/Roboto-Thin.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.solitarymonk/src/main/resources/static/vendor/materialize/font/roboto/Roboto-Thin.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.solitarymonk/src/main/resources/static/vendor/materialize/font/roboto/Roboto-Thin.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.solitarymonk/src/main/resources/static/vendor/materialize/js/materialize.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.solitarymonk/src/main/resources/static/vendor/materialize/js/materialize.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.solitarymonk/src/main/resources/templates/category/details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.solitarymonk/src/main/resources/templates/category/form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.solitarymonk/src/main/resources/templates/category/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.solitarymonk/src/main/resources/templates/error.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.solitarymonk/src/main/resources/templates/gif/details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.solitarymonk/src/main/resources/templates/gif/favorites.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.solitarymonk/src/main/resources/templates/gif/form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.solitarymonk/src/main/resources/templates/gif/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.solitarymonk/src/main/resources/templates/layout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../contactmgr-hibernate/src/main/java/com/solitarymonk/contactmgr/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../contactmgr-hibernate/src/main/java/com/solitarymonk/contactmgr/model/Contact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../contactmgr-hibernate/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/solitarymonk/courses/Api.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/solitarymonk/courses/dao/CourseDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/solitarymonk/courses/dao/ReviewDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/solitarymonk/courses/dao/Sql2oCourseDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/solitarymonk/courses/dao/Sql2oReviewDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/solitarymonk/courses/exc/ApiError.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/solitarymonk/courses/exc/DaoException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/solitarymonk/courses/model/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/solitarymonk/courses/model/Review.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/db/init.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/solitarymonk/courses/ApiTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/solitarymonk/courses/dao/Sql2oCourseDaoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/solitarymonk/courses/dao/Sql2oReviewDaoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/solitarymonk/testing/ApiClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/solitarymonk/testing/ApiResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../giflib-hib/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../giflib-hib/src/main/java/com/solitarymonk/giflib/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../giflib-hib/src/main/java/com/solitarymonk/giflib/config/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../giflib-hib/src/main/java/com/solitarymonk/giflib/config/DataConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../giflib-hib/src/main/java/com/solitarymonk/giflib/config/TemplateConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../giflib-hib/src/main/java/com/solitarymonk/giflib/model/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../giflib-hib/src/main/java/com/solitarymonk/giflib/model/Gif.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../giflib-hib/src/main/java/com/solitarymonk/giflib/web/Color.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../giflib-hib/src/main/java/com/solitarymonk/giflib/web/controller/CategoryController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../giflib-hib/src/main/java/com/solitarymonk/giflib/web/controller/GifController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../giflib-hib/src/main/resources/app.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../giflib-hib/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../giflib-hib/src/main/resources/static/app.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../giflib-hib/src/main/resources/static/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../giflib-hib/src/main/resources/static/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../giflib-hib/src/main/resources/static/icons/favorite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../giflib-hib/src/main/resources/static/icons/unfavorite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../giflib-hib/src/main/resources/static/images/me.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../giflib-hib/src/main/resources/static/vendor/codrops/css/cs-select.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../giflib-hib/src/main/resources/static/vendor/codrops/css/cs-skin-border.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../giflib-hib/src/main/resources/static/vendor/codrops/fonts/codropsicons/codropsicons.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../giflib-hib/src/main/resources/static/vendor/codrops/fonts/codropsicons/codropsicons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../giflib-hib/src/main/resources/static/vendor/codrops/fonts/codropsicons/codropsicons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../giflib-hib/src/main/resources/static/vendor/codrops/fonts/codropsicons/codropsicons.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../giflib-hib/src/main/resources/static/vendor/codrops/fonts/codropsicons/license.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../giflib-hib/src/main/resources/static/vendor/codrops/fonts/icomoon/icomoon.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../giflib-hib/src/main/resources/static/vendor/codrops/fonts/icomoon/icomoon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../giflib-hib/src/main/resources/static/vendor/codrops/fonts/icomoon/icomoon.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../giflib-hib/src/main/resources/static/vendor/codrops/fonts/icomoon/icomoon.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../giflib-hib/src/main/resources/static/vendor/codrops/js/classie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../giflib-hib/src/main/resources/static/vendor/codrops/js/selectFx.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../giflib-hib/src/main/resources/static/vendor/jquery/jquery-1.11.3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../giflib-hib/src/main/resources/static/vendor/materialize/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../giflib-hib/src/main/resources/static/vendor/materialize/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../giflib-hib/src/main/resources/static/vendor/materialize/css/materialize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../giflib-hib/src/main/resources/static/vendor/materialize/css/materialize.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../giflib-hib/src/main/resources/static/vendor/materialize/font/material-design-icons/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../giflib-hib/src/main/resources/static/vendor/materialize/font/material-design-icons/Material-Design-Icons.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../giflib-hib/src/main/resources/static/vendor/materialize/font/material-design-icons/Material-Design-Icons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../giflib-hib/src/main/resources/static/vendor/materialize/font/material-design-icons/Material-Design-Icons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../giflib-hib/src/main/resources/static/vendor/materialize/font/material-design-icons/Material-Design-Icons.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../giflib-hib/src/main/resources/static/vendor/materialize/font/material-design-icons/Material-Design-Icons.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../giflib-hib/src/main/resources/static/vendor/materialize/font/roboto/Roboto-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../giflib-hib/src/main/resources/static/vendor/materialize/font/roboto/Roboto-Bold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../giflib-hib/src/main/resources/static/vendor/materialize/font/roboto/Roboto-Bold.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../giflib-hib/src/main/resources/static/vendor/materialize/font/roboto/Roboto-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../giflib-hib/src/main/resources/static/vendor/materialize/font/roboto/Roboto-Light.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../giflib-hib/src/main/resources/static/vendor/materialize/font/roboto/Roboto-Light.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../giflib-hib/src/main/resources/static/vendor/materialize/font/roboto/Roboto-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../giflib-hib/src/main/resources/static/vendor/materialize/font/roboto/Roboto-Medium.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../giflib-hib/src/main/resources/static/vendor/materialize/font/roboto/Roboto-Medium.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../giflib-hib/src/main/resources/static/vendor/materialize/font/roboto/Roboto-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../giflib-hib/src/main/resources/static/vendor/materialize/font/roboto/Roboto-Regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../giflib-hib/src/main/resources/static/vendor/materialize/font/roboto/Roboto-Regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../giflib-hib/src/main/resources/static/vendor/materialize/font/roboto/Roboto-Thin.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../giflib-hib/src/main/resources/static/vendor/materialize/font/roboto/Roboto-Thin.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../giflib-hib/src/main/resources/static/vendor/materialize/font/roboto/Roboto-Thin.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../giflib-hib/src/main/resources/static/vendor/materialize/js/materialize.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../giflib-hib/src/main/resources/static/vendor/materialize/js/materialize.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../giflib-hib/src/main/resources/templates/category/details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../giflib-hib/src/main/resources/templates/category/form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../giflib-hib/src/main/resources/templates/category/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../giflib-hib/src/main/resources/templates/error.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../giflib-hib/src/main/resources/templates/gif/details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../giflib-hib/src/main/resources/templates/gif/favorites.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../giflib-hib/src/main/resources/templates/gif/form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../giflib-hib/src/main/resources/templates/gif/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../giflib-hib/src/main/resources/templates/layout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todotoday/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todotoday/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todotoday/src/main/resources/import.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todotoday/src/main/resources/static/assets/css/app.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todotoday/src/main/resources/static/assets/images/desktop-computer.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todotoday/src/main/resources/static/assets/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todotoday/src/main/resources/templates/layout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todotoday/src/main/resources/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todotoday/src/main/resources/templates/todo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/LinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/LinkedListNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/MikesLinkedListApp.java" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="course-reviews" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="course-reviews" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/solitarymonk/courses/model/Course.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/solitarymonk/courses/model/Review.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/solitarymonk/courses/exc/DaoException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/solitarymonk/courses/dao/ReviewDao.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/db/init.sql" />
+        <option value="$PROJECT_DIR$/src/main/java/com/solitarymonk/courses/dao/CourseDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/solitarymonk/courses/dao/Sql2oCourseDao.java" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/test/java/com/solitarymonk/testing/ApiResponse.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/solitarymonk/testing/ApiClient.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/solitarymonk/courses/dao/Sql2oCourseDaoTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/solitarymonk/courses/exc/ApiError.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/solitarymonk/courses/dao/Sql2oReviewDao.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/solitarymonk/courses/dao/Sql2oReviewDaoTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/solitarymonk/courses/Api.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/solitarymonk/courses/ApiTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1680" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="course-reviews" type="b2602c69:ProjectViewProjectNode" />
+              <item name="course-reviews" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="course-reviews" type="b2602c69:ProjectViewProjectNode" />
+              <item name="course-reviews" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="database" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="course-reviews" type="b2602c69:ProjectViewProjectNode" />
+              <item name="course-reviews" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="course-reviews" type="b2602c69:ProjectViewProjectNode" />
+              <item name="course-reviews" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="course-reviews" type="b2602c69:ProjectViewProjectNode" />
+              <item name="course-reviews" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="course-reviews" type="b2602c69:ProjectViewProjectNode" />
+              <item name="course-reviews" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="courses" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="course-reviews" type="b2602c69:ProjectViewProjectNode" />
+              <item name="course-reviews" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="courses" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="course-reviews" type="b2602c69:ProjectViewProjectNode" />
+              <item name="course-reviews" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="courses" type="462c0819:PsiDirectoryNode" />
+              <item name="exc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="course-reviews" type="b2602c69:ProjectViewProjectNode" />
+              <item name="course-reviews" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="courses" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="course-reviews" type="b2602c69:ProjectViewProjectNode" />
+              <item name="course-reviews" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="course-reviews" type="b2602c69:ProjectViewProjectNode" />
+              <item name="course-reviews" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="db" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="course-reviews" type="b2602c69:ProjectViewProjectNode" />
+              <item name="course-reviews" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="course-reviews" type="b2602c69:ProjectViewProjectNode" />
+              <item name="course-reviews" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="course-reviews" type="b2602c69:ProjectViewProjectNode" />
+              <item name="course-reviews" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="solitarymonk" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="course-reviews" type="b2602c69:ProjectViewProjectNode" />
+              <item name="course-reviews" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="solitarymonk" type="462c0819:PsiDirectoryNode" />
+              <item name="courses" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="course-reviews" type="b2602c69:ProjectViewProjectNode" />
+              <item name="course-reviews" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="solitarymonk" type="462c0819:PsiDirectoryNode" />
+              <item name="courses" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="course-reviews" type="b2602c69:ProjectViewProjectNode" />
+              <item name="course-reviews" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="solitarymonk" type="462c0819:PsiDirectoryNode" />
+              <item name="testing" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="course-reviews" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.solitarymonk.courses.dao" />
+      <recent name="com.solitarymonk.courses" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.solitarymonk.courses.exc" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Gradle.Tests in 'course-reviews.test'">
+    <configuration name="Api" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.solitarymonk.courses.Api" />
+      <module name="course-reviews.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.solitarymonk.courses.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sql2oReviewDaoTest.addingReviewSetsId" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.solitarymonk.courses.dao.Sql2oReviewDaoTest.addingReviewSetsId&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Sql2oReviewDaoTest.addingReviewsSetsId" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.solitarymonk.courses.dao.Sql2oReviewDaoTest.addingReviewsSetsId&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Tests in 'course-reviews.test'" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests *" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.Tests in 'course-reviews.test'" />
+        <item itemvalue="Gradle.Sql2oReviewDaoTest.addingReviewSetsId" />
+        <item itemvalue="Gradle.Sql2oReviewDaoTest.addingReviewsSetsId" />
+        <item itemvalue="Application.Api" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cbeabb5f-e635-49fc-b1bd-3d29e42268cd" name="Default Changelist" comment="" />
+      <created>1554261552965</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554261552965</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Sql2oReviewDaoTest_addingReviewSetsId - 2019.04.05 at 19h 59m 58s.xml">
+      <configuration name="Sql2oReviewDaoTest.addingReviewSetsId" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Sql2oReviewDaoTest_addingReviewSetsId - 2019.04.05 at 20h 00m 32s.xml">
+      <configuration name="Sql2oReviewDaoTest.addingReviewSetsId" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Sql2oReviewDaoTest_addingReviewSetsId - 2019.04.05 at 20h 08m 14s.xml">
+      <configuration name="Sql2oReviewDaoTest.addingReviewSetsId" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Sql2oReviewDaoTest_addingReviewSetsId - 2019.04.05 at 20h 16m 20s.xml">
+      <configuration name="Sql2oReviewDaoTest.addingReviewSetsId" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'course-reviews_test' - 2019.04.05 at 23h 14m 21s.xml">
+      <configuration name="Tests in 'course-reviews.test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'course-reviews_test' - 2019.04.05 at 23h 17m 59s.xml">
+      <configuration name="Tests in 'course-reviews.test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'course-reviews_test' - 2019.04.05 at 23h 20m 22s.xml">
+      <configuration name="Tests in 'course-reviews.test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'course-reviews_test' - 2019.04.05 at 23h 44m 08s.xml">
+      <configuration name="Tests in 'course-reviews.test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'course-reviews_test' - 2019.04.05 at 23h 46m 15s.xml">
+      <configuration name="Tests in 'course-reviews.test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'course-reviews_test' - 2019.04.05 at 23h 52m 30s.xml">
+      <configuration name="Tests in 'course-reviews.test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16056167" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="UI Designer" order="6" />
+      <window_info id="DB Browser" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32959184" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32959184" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32959184" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32959184" />
+      <window_info anchor="bottom" id="DB Execution Console" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32959184" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="11" weight="0.2897959" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Gradle" order="5" weight="0.18803419" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Maven" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/solitarymonk/courses/exc/DaoException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="51" selection-start-line="8" selection-start-column="51" selection-end-line="8" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/reviews.db">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-simple/1.7.26/e4804203f5f65c4762798b172418e0812d29b8c3/slf4j-simple-1.7.26-sources.jar!/org/slf4j/impl/StaticLoggerBinder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="74" selection-start-line="74" selection-end-line="74" />
+          <folding>
+            <element signature="e#1926#1927#0" expanded="true" />
+            <element signature="e#1958#1959#0" expanded="true" />
+            <element signature="e#2740#2741#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.26/21c84cdf9da108216b5e402611d4af479b60cb8/slf4j-api-1.7.26-sources.jar!/org/slf4j/helpers/NamedLoggerBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.26/21c84cdf9da108216b5e402611d4af479b60cb8/slf4j-api-1.7.26-sources.jar!/org/slf4j/helpers/MarkerIgnoringBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-simple/1.7.26/e4804203f5f65c4762798b172418e0812d29b8c3/slf4j-simple-1.7.26-sources.jar!/org/slf4j/impl/SimpleLoggerConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="126" selection-start-line="126" selection-end-line="126" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-simple/1.7.26/e4804203f5f65c4762798b172418e0812d29b8c3/slf4j-simple-1.7.26-sources.jar!/org/slf4j/impl/SimpleLogger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="222" selection-start-line="222" selection-end-line="222" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-simple/1.7.26/e4804203f5f65c4762798b172418e0812d29b8c3/slf4j-simple-1.7.26-sources.jar!/org/slf4j/impl/SimpleLoggerFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.26/21c84cdf9da108216b5e402611d4af479b60cb8/slf4j-api-1.7.26-sources.jar!/org/slf4j/LoggerFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="391" selection-start-line="391" selection-end-line="391" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.sql2o/sql2o/1.6.0/9c6071145a54ce3ece4ce1afb53764d0764112d2/sql2o-1.6.0-sources.jar!/org/sql2o/logging/Slf4jLogger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#214#215#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.sql2o/sql2o/1.6.0/9c6071145a54ce3ece4ce1afb53764d0764112d2/sql2o-1.6.0-sources.jar!/org/sql2o/logging/LocalLoggerFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.sql2o/sql2o/1.6.0/9c6071145a54ce3ece4ce1afb53764d0764112d2/sql2o-1.6.0-sources.jar!/org/sql2o/connectionsources/DataSourceConnectionSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.sql2o/sql2o/1.6.0/9c6071145a54ce3ece4ce1afb53764d0764112d2/sql2o-1.6.0-sources.jar!/org/sql2o/GenericDatasource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="61" selection-start-line="61" selection-end-line="61" />
+          <folding>
+            <element signature="e#1235#1236#0" expanded="true" />
+            <element signature="e#1261#1262#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.h2database/h2/1.4.199/cda9ec0b80ed4eefc4d1cd37781548725a59a738/h2-1.4.199-sources.jar!/org/h2/upgrade/DbUpgrade.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.h2database/h2/1.4.199/cda9ec0b80ed4eefc4d1cd37781548725a59a738/h2-1.4.199-sources.jar!/org/h2/Driver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="68" selection-start-line="68" selection-end-line="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.h2database/h2/1.4.199/cda9ec0b80ed4eefc4d1cd37781548725a59a738/h2-1.4.199-sources.jar!/org/h2/command/dml/SetTypes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="339" selection-start-line="339" selection-end-line="339" />
+          <folding>
+            <element signature="e#9380#9381#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.h2database/h2/1.4.199/cda9ec0b80ed4eefc4d1cd37781548725a59a738/h2-1.4.199-sources.jar!/org/h2/util/Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="700" selection-start-line="700" selection-end-line="700" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.h2database/h2/1.4.199/cda9ec0b80ed4eefc4d1cd37781548725a59a738/h2-1.4.199-sources.jar!/org/h2/engine/DbSettings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="385" selection-start-line="385" selection-end-line="385" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.h2database/h2/1.4.199/cda9ec0b80ed4eefc4d1cd37781548725a59a738/h2-1.4.199-sources.jar!/org/h2/engine/SettingsBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="94" selection-start-line="94" selection-end-line="94" />
+          <folding>
+            <element signature="e#488#489#0" expanded="true" />
+            <element signature="e#521#522#0" expanded="true" />
+            <element signature="e#2728#2729#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.h2database/h2/1.4.199/cda9ec0b80ed4eefc4d1cd37781548725a59a738/h2-1.4.199-sources.jar!/org/h2/engine/ConnectionInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="265" selection-start-line="265" selection-end-line="265" />
+          <folding>
+            <element signature="e#3477#3478#0" expanded="true" />
+            <element signature="e#3526#3527#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.h2database/h2/1.4.199/cda9ec0b80ed4eefc4d1cd37781548725a59a738/h2-1.4.199-sources.jar!/org/h2/api/ErrorCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="2135" selection-start-line="2135" selection-end-line="2135" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.h2database/h2/1.4.199/cda9ec0b80ed4eefc4d1cd37781548725a59a738/h2-1.4.199-sources.jar!/org/h2/util/StringUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="779" selection-start-line="779" selection-end-line="779" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.h2database/h2/1.4.199/cda9ec0b80ed4eefc4d1cd37781548725a59a738/h2-1.4.199-sources.jar!/org/h2/jdbc/JdbcSQLNonTransientConnectionException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+          <folding>
+            <element signature="e#1573#1574#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.h2database/h2/1.4.199/cda9ec0b80ed4eefc4d1cd37781548725a59a738/h2-1.4.199-sources.jar!/org/h2/message/DbException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="656" selection-start-line="656" selection-end-line="656" />
+          <folding>
+            <element signature="e#6123#6124#0" expanded="true" />
+            <element signature="e#6181#6182#0" expanded="true" />
+            <element signature="e#23259#23260#0" expanded="true" />
+            <element signature="e#23332#23333#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="71" selection-start-line="19" selection-start-column="71" selection-end-line="19" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/solitarymonk/testing/ApiResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <folding>
+            <element signature="e#252#253#0" expanded="true" />
+            <element signature="e#281#282#0" expanded="true" />
+            <element signature="e#312#313#0" expanded="true" />
+            <element signature="e#339#340#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/solitarymonk/courses/exc/ApiError.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+          <folding>
+            <element signature="e#282#283#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/solitarymonk/courses/dao/CourseDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="10" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/solitarymonk/courses/dao/Sql2oCourseDaoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="734">
+          <caret line="65" column="84" lean-forward="true" selection-start-line="65" selection-start-column="4" selection-end-line="65" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.sql2o/sql2o/1.6.0/9c6071145a54ce3ece4ce1afb53764d0764112d2/sql2o-1.6.0-sources.jar!/org/sql2o/quirks/NoQuirks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
+          <folding>
+            <element signature="e#1774#1775#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.h2database/h2/1.4.199/cda9ec0b80ed4eefc4d1cd37781548725a59a738/h2-1.4.199-sources.jar!/org/h2/message/TraceSystem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="151" selection-start-line="151" selection-end-line="151" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.h2database/h2/1.4.199/cda9ec0b80ed4eefc4d1cd37781548725a59a738/h2-1.4.199-sources.jar!/org/h2/message/Trace.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="168" selection-start-line="168" selection-end-line="168" />
+          <folding>
+            <element signature="e#3764#3765#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.h2database/h2/1.4.199/cda9ec0b80ed4eefc4d1cd37781548725a59a738/h2-1.4.199-sources.jar!/org/h2/message/TraceObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="199" selection-start-line="199" selection-end-line="199" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.h2database/h2/1.4.199/cda9ec0b80ed4eefc4d1cd37781548725a59a738/h2-1.4.199-sources.jar!/org/h2/engine/Session.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="1208" selection-start-line="1208" selection-end-line="1208" />
+          <folding>
+            <element signature="e#39034#39035#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.h2database/h2/1.4.199/cda9ec0b80ed4eefc4d1cd37781548725a59a738/h2-1.4.199-sources.jar!/org/h2/jdbc/JdbcConnection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="580" selection-start-line="580" selection-end-line="580" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.sql2o/sql2o/1.6.0/9c6071145a54ce3ece4ce1afb53764d0764112d2/sql2o-1.6.0-sources.jar!/org/sql2o/Connection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="84" selection-start-line="84" selection-end-line="84" />
+          <folding>
+            <element signature="e#1712#1713#0" expanded="true" />
+            <element signature="e#1756#1757#0" expanded="true" />
+            <element signature="e#2315#2316#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.sql2o/sql2o/1.6.0/9c6071145a54ce3ece4ce1afb53764d0764112d2/sql2o-1.6.0-sources.jar!/org/sql2o/Sql2o.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="123" selection-start-line="123" selection-end-line="123" />
+          <folding>
+            <element signature="e#3645#3646#0" expanded="true" />
+            <element signature="e#3674#3675#0" expanded="true" />
+            <element signature="e#4377#4378#0" expanded="true" />
+            <element signature="e#4416#4417#0" expanded="true" />
+            <element signature="e#5162#5163#0" expanded="true" />
+            <element signature="e#8153#8154#0" expanded="true" />
+            <element signature="e#8203#8204#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.sql2o/sql2o/1.6.0/9c6071145a54ce3ece4ce1afb53764d0764112d2/sql2o-1.6.0-sources.jar!/org/sql2o/tools/AbstractCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.sql2o/sql2o/1.6.0/9c6071145a54ce3ece4ce1afb53764d0764112d2/sql2o-1.6.0-sources.jar!/org/sql2o/Query.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="457">
+          <caret line="400" selection-start-line="400" selection-end-line="400" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/solitarymonk/courses/dao/ReviewDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.sql2o/sql2o/1.6.0/9c6071145a54ce3ece4ce1afb53764d0764112d2/sql2o-1.6.0-sources.jar!/org/sql2o/reflection/PojoIntrospector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/solitarymonk/courses/model/Course.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="39" column="37" selection-start-line="39" selection-start-column="37" selection-end-line="39" selection-end-column="37" />
+          <folding>
+            <element signature="e#402#403#0" expanded="true" />
+            <element signature="e#429#430#0" expanded="true" />
+            <element signature="e#984#985#0" expanded="true" />
+            <element signature="e#1034#1035#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/solitarymonk/courses/model/Review.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="49" column="37" selection-start-line="49" selection-start-column="37" selection-end-line="49" selection-end-column="37" />
+          <folding>
+            <element signature="e#1317#1318#0" expanded="true" />
+            <element signature="e#1383#1384#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/db/init.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/solitarymonk/courses/dao/Sql2oCourseDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="46" column="9" selection-start-line="42" selection-start-column="8" selection-end-line="46" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/solitarymonk/courses/dao/Sql2oReviewDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="46" column="5" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/solitarymonk/courses/dao/Sql2oReviewDaoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="580">
+          <caret line="62" column="30" selection-start-line="62" selection-start-column="30" selection-end-line="62" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/solitarymonk/courses/Api.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="470">
+          <caret line="70" column="52" selection-start-line="70" selection-start-column="52" selection-end-line="70" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/solitarymonk/courses/ApiTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="122" column="40" lean-forward="true" selection-start-line="122" selection-start-column="40" selection-end-line="122" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/solitarymonk/testing/ApiClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="26" column="36" lean-forward="true" selection-start-line="26" selection-start-column="36" selection-end-line="26" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

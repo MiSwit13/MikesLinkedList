@@ -1,0 +1,19 @@
+plugins {
+    id 'java'
+}
+
+group 'com.solitarymonk'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile 'org.hibernate:hibernate-core:5.4.1.Final'
+    compile group: 'com.h2database', name: 'h2', version: '1.4.199'
+    compile group: 'javax.transaction', name: 'jta', version: '1.1'
+
+}

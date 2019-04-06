@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.solitarymonk.courses.ApiTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2019-04-06T06:52:29" hostname="MichaelMac.local" time="0.42">
+  <properties/>
+  <testcase name="addingReviewToUnknownCourseThrowsError" classname="com.solitarymonk.courses.ApiTest" time="0.334"/>
+  <testcase name="addingCoursesReturnsCreatedStatus" classname="com.solitarymonk.courses.ApiTest" time="0.015"/>
+  <testcase name="multipleReviewsReturnedForCourse" classname="com.solitarymonk.courses.ApiTest" time="0.037"/>
+  <testcase name="missingCoursesReturnNotFoundStatus" classname="com.solitarymonk.courses.ApiTest" time="0.01"/>
+  <testcase name="addingReviewGivesCreatedStatus" classname="com.solitarymonk.courses.ApiTest" time="0.012"/>
+  <testcase name="coursesCanBeAccessedById" classname="com.solitarymonk.courses.ApiTest" time="0.01"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[Thread-4] INFO org.eclipse.jetty.util.log - Logging initialized @527ms to org.eclipse.jetty.util.log.Slf4jLog
+[Thread-4] INFO spark.embeddedserver.jetty.EmbeddedJettyServer - == Spark has ignited ...
+[Thread-4] INFO spark.embeddedserver.jetty.EmbeddedJettyServer - >> Listening on 0.0.0.0:4568
+[Thread-4] INFO org.eclipse.jetty.server.Server - jetty-9.4.15.v20190215; built: 2019-02-15T16:53:49.381Z; git: eb70b240169fcf1abbd86af36482d1c49826fa0b; jvm 1.8.0_201-b09
+[Thread-4] INFO org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+[Thread-4] INFO org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+[Thread-4] INFO org.eclipse.jetty.server.session - node0 Scavenging every 600000ms
+[Thread-4] INFO org.eclipse.jetty.server.AbstractConnector - Started ServerConnector@57f31819{HTTP/1.1,[http/1.1]}{0.0.0.0:4568}
+[Thread-4] INFO org.eclipse.jetty.server.Server - Started @646ms
+]]></system-err>
+</testsuite>

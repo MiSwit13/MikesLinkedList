@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.solitarymonk.courses.dao.Sql2oReviewDaoTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2019-04-06T06:52:30" hostname="MichaelMac.local" time="0.029">
+  <properties/>
+  <testcase name="addingAReviewToANonExistingCourseFails" classname="com.solitarymonk.courses.dao.Sql2oReviewDaoTest" time="0.013"/>
+  <testcase name="addingReviewSetsId" classname="com.solitarymonk.courses.dao.Sql2oReviewDaoTest" time="0.006"/>
+  <testcase name="multipleReviewsAreFoundWhenTheyExistForACourse" classname="com.solitarymonk.courses.dao.Sql2oReviewDaoTest" time="0.01"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
